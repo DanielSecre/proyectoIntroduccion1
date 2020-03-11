@@ -8,8 +8,24 @@ footer {font-size: 1.2em; color: white;}
 
 .footer {text-align: center; background-color: dimgray;}
 
-.titulo {font-weight: bold; color: green;} 
+.titulo {font-weight: bold; color: green; text-align: center;} 
 
 .subtitulo {font-weight: bold; color: green;} 
 
 .contenido {font-style: italic; font-family: segoe ui; text-align: justify; color: green;}
+
+.fondo {background-color: black;}
+
+.video {text-align: center;}
+
+.titulo2 {text-align: center; font-weight: bold; color: rgb(0, 0, 68);}
+
+.subtitulo2 {font-weight: bold; color: rgb(0, 0, 68);}
+
+.contenido2 {font-family: Lucida Sans; text-align: left; color: rgb(0, 0, 68); font-style: italic;}
+
+.contenido3 {font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 68); font-style: italic;}
+
+.fondo2 {background-color: darkgreen;}
+
+.footer2 {text-align: center;}
